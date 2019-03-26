@@ -2,9 +2,9 @@ public class CCorrente {
     private
         int numero;
         double saldo;
-        String cliente;
+        Cliente cliente;
 
-    public CCorrente(int num, double sal, String cli) {
+    public CCorrente(int num, double sal, Cliente cli) {
         this.numero = num;
         this.saldo = sal;
         this.cliente = cli;
@@ -30,5 +30,10 @@ public class CCorrente {
         if (valor < this.saldo){
             this.saldo = this.saldo - valor;
         }
-    };
+    }
+
+    @Override
+    public static String toString(){
+        return (this.numero);
+    }
 }

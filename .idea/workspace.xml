@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27695180-d540-4230-a77b-e6d47782fa09" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Lista/Lista.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2_1/src/CInvestimento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2_2/Lista2_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2_2/src/Chefe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2_2/src/Empregado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2_2/src/Estagiario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2_2/src/lista2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2_3/Lista2_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2_3/src/CamaroteInferior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2_3/src/CamaroteSuperior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2_3/src/Ingresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2_3/src/Lista2_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2_3/src/Nomal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2_3/src/Vip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2_4/Lista2_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2_4/src/Administrativo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2_4/src/Assistente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2_4/src/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2_4/src/Lista2_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2_4/src/Tecnico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2_5/Lista2_5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2_5/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2_5/src/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2_5/src/Gato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2_5/src/Lista2_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2_6/Lista2_6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2_6/src/Lista2_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2_6/src/Miseravel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2_6/src/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2_6/src/Pobre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista2_6/src/Rica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista3_1/Lista3_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista3_1/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista3_2/Lista3_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista3_2/src/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista3_2/src/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista3_2/src/Programador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista3_2/src/lista3_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista1/src/Lista1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista1/src/Lista1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista2_1/src/CCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista2_1/src/CCorrente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista2_1/src/CPoupanca.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista2_1/src/CPoupanca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista2_1/src/Lista2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista2_1/src/Lista2_1.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lista2_6/src/Lista2_6.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lista3_1/src/CCorrente.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="427">
+              <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Lista2_1/src/CCorrente.java" />
+        <option value="$PROJECT_DIR$/Lista2_1/src/CInvestimento.java" />
+        <option value="$PROJECT_DIR$/Lista2_1/src/Lista2_1.java" />
+        <option value="$PROJECT_DIR$/Lista2_1/src/CPoupanca.java" />
+        <option value="$PROJECT_DIR$/lista2_1/src/lista1_1.java" />
+        <option value="$PROJECT_DIR$/Lista2_2/src/Estagiario.java" />
+        <option value="$PROJECT_DIR$/Lista2_3/src/Lista2_3.java" />
+        <option value="$PROJECT_DIR$/Lista2_3/src/Vip.java" />
+        <option value="$PROJECT_DIR$/Lista2_2/src/Empregado.java" />
+        <option value="$PROJECT_DIR$/Lista2_2/src/Chefe.java" />
+        <option value="$PROJECT_DIR$/Lista2_3/src/Ingresso.java" />
+        <option value="$PROJECT_DIR$/Lista2_3/src/Nomal.java" />
+        <option value="$PROJECT_DIR$/Lista2_3/src/CamaroteInferior.java" />
+        <option value="$PROJECT_DIR$/Lista2_3/src/CamaroteSuperior.java" />
+        <option value="$PROJECT_DIR$/Lista2_4/src/Assistente.java" />
+        <option value="$PROJECT_DIR$/Lista2_4/src/Administrativo.java" />
+        <option value="$PROJECT_DIR$/Lista2_4/src/Funcionario.java" />
+        <option value="$PROJECT_DIR$/Lista2_4/src/Lista2_4.java" />
+        <option value="$PROJECT_DIR$/Lista2_5/src/Cachorro.java" />
+        <option value="$PROJECT_DIR$/Lista2_5/src/Gato.java" />
+        <option value="$PROJECT_DIR$/Lista2_5/src/Lista2_5.java" />
+        <option value="$PROJECT_DIR$/Lista2_6/src/Pobre.java" />
+        <option value="$PROJECT_DIR$/Lista2_6/src/Misseralvel.java" />
+        <option value="$PROJECT_DIR$/Lista2_6/src/Miseravel.java" />
+        <option value="$PROJECT_DIR$/Lista2_6/src/Lista2_6.java" />
+        <option value="$PROJECT_DIR$/Lista2_6/src/Pessoa.java" />
+        <option value="$PROJECT_DIR$/Lista2_6/src/Rica.java" />
+        <option value="$PROJECT_DIR$/Lista2_4/src/Tecnico.java" />
+        <option value="$PROJECT_DIR$/Lista2_5/src/Animal.java" />
+        <option value="$PROJECT_DIR$/Lista3_1/src/Clientes.java" />
+        <option value="$PROJECT_DIR$/Lista3_1/src/CPoupanca.java" />
+        <option value="$PROJECT_DIR$/Lista3_1/src/CEspecial.java" />
+        <option value="$PROJECT_DIR$/Lista3_1/src/Cliente.java" />
+        <option value="$PROJECT_DIR$/Lista3_1/src/CInvestimento.java" />
+        <option value="$PROJECT_DIR$/Lista3_2/src/lista2_2.java" />
+        <option value="$PROJECT_DIR$/Lista3_2/src/Empregado.java" />
+        <option value="$PROJECT_DIR$/Lista3_2/src/gerente.java" />
+        <option value="$PROJECT_DIR$/Lista2_2/src/lista2_2.java" />
+        <option value="$PROJECT_DIR$/Lista3_2/src/Funcionario.java" />
+        <option value="$PROJECT_DIR$/Lista3_2/src/Programador.java" />
+        <option value="$PROJECT_DIR$/Lista3_2/src/Gerente.java" />
+        <option value="$PROJECT_DIR$/Lista3_1/src/Lista3_1.java" />
+        <option value="$PROJECT_DIR$/Lista3_1/src/CCorrente.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="POO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="POO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="POO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="POO" type="462c0819:PsiDirectoryNode" />
+              <item name="Lista" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="POO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="POO" type="462c0819:PsiDirectoryNode" />
+              <item name="Lista1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="POO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="POO" type="462c0819:PsiDirectoryNode" />
+              <item name="Lista1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="POO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="POO" type="462c0819:PsiDirectoryNode" />
+              <item name="Lista2_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="POO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="POO" type="462c0819:PsiDirectoryNode" />
+              <item name="Lista2_2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="POO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="POO" type="462c0819:PsiDirectoryNode" />
+              <item name="Lista2_3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="POO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="POO" type="462c0819:PsiDirectoryNode" />
+              <item name="Lista2_3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="POO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="POO" type="462c0819:PsiDirectoryNode" />
+              <item name="Lista2_6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="POO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="POO" type="462c0819:PsiDirectoryNode" />
+              <item name="Lista2_6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="POO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="POO" type="462c0819:PsiDirectoryNode" />
+              <item name="Lista3_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="POO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="POO" type="462c0819:PsiDirectoryNode" />
+              <item name="Lista3_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="POO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="POO" type="462c0819:PsiDirectoryNode" />
+              <item name="Lista3_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552952358182" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Lista3_1">
+    <configuration name="Lista2_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lista2_3" />
+      <module name="Lista2_3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lista2_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lista2_4" />
+      <module name="Lista2_4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lista2_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lista2_5" />
+      <module name="Lista2_5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lista2_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lista2_6" />
+      <module name="Lista2_6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lista3_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lista3_1" />
+      <module name="Lista3_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lista3_1" />
+        <item itemvalue="Application.Lista2_5" />
+        <item itemvalue="Application.Lista2_6" />
+        <item itemvalue="Application.Lista2_4" />
+        <item itemvalue="Application.Lista2_3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27695180-d540-4230-a77b-e6d47782fa09" name="Default Changelist" comment="" />
+      <created>1550809244621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550809244621</updated>
+      <workItem from="1550809248692" duration="190000" />
+      <workItem from="1550937280482" duration="5000" />
+      <workItem from="1550948455297" duration="61000" />
+      <workItem from="1551179723754" duration="89000" />
+      <workItem from="1551187936544" duration="5050000" />
+      <workItem from="1551267638698" duration="4946000" />
+      <workItem from="1552255696444" duration="1446000" />
+      <workItem from="1552260385082" duration="4167000" />
+      <workItem from="1552320386095" duration="1135000" />
+      <workItem from="1552399692578" duration="34000" />
+      <workItem from="1552477255964" duration="503000" />
+      <workItem from="1552701005019" duration="5210000" />
+      <workItem from="1552947697927" duration="3342000" />
+      <workItem from="1553082098313" duration="264000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="26442000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="732" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30227274" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Duplicate detector" order="0" weight="0.32885906" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32885906" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32885906" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Messages" order="13" visible="true" weight="0.32885906" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Lista2_1/src/CPoupanca.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista2_1/src/CInvestimento.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista2_2/Lista2_2.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista2_2/src/Estagiario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista2_3/src/Vip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista2_2/src/Empregado.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="31" />
+          <folding>
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#600#601#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista2_2/src/Chefe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista2_3/src/Nomal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+          <folding>
+            <element signature="e#66#67#0" expanded="true" />
+            <element signature="e#92#93#0" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista2_1/src/Lista2_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="16" selection-start-line="1" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista2_6/src/Pobre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
+          <folding>
+            <element signature="e#75#76#0" expanded="true" />
+            <element signature="e#107#108#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista2_6/src/Miseravel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+          <folding>
+            <element signature="e#83#84#0" expanded="true" />
+            <element signature="e#115#116#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista2_4/src/Lista2_4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="44" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista2_5/src/Gato.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+          <folding>
+            <element signature="e#70#71#0" expanded="true" />
+            <element signature="e#97#98#0" expanded="true" />
+            <element signature="e#42#43#0" expanded="true" />
+            <element signature="e#63#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista2_5/src/Lista2_5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista2_5/src/Cachorro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#79#80#0" expanded="true" />
+            <element signature="e#106#107#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista2_1/src/CCorrente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista2_6/src/Pessoa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista2_6/src/Rica.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista2_4/src/Tecnico.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista2_4/src/Funcionario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista2_4/src/Assistente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista2_4/src/Administrativo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista2_5/src/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista2_3/src/CamaroteInferior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista2_3/src/CamaroteSuperior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding>
+            <element signature="e#96#97#0" expanded="true" />
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista3_1/src/CPoupanca.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista3_1/src/Cliente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista3_1/src/CEspecial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista3_1/src/CInvestimento.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista1/Lista1.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista1/src/Lista1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-525">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista2_3/src/Ingresso.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista3_2/src/Estagiario.java" />
+    <entry file="file://$PROJECT_DIR$/Lista3_2/Lista2_2.iml" />
+    <entry file="file://$PROJECT_DIR$/Lista3_2/src/lista2_2.java" />
+    <entry file="file://$PROJECT_DIR$/Lista3_2/src/Empregado.java" />
+    <entry file="file://$PROJECT_DIR$/Lista3_2/src/gerente.java" />
+    <entry file="file://$PROJECT_DIR$/Lista3_2/Lista3_2.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista2_3/src/Lista2_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista2_2/src/lista2_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista3_2/src/lista3_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista3_2/src/Funcionario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="6" lean-forward="true" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+          <folding>
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista3_2/src/Gerente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding>
+            <element signature="e#89#90#0" expanded="true" />
+            <element signature="e#125#126#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista3_2/src/Programador.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-end-line="13" />
+          <folding>
+            <element signature="e#97#98#0" expanded="true" />
+            <element signature="e#119#120#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista3_1/src/Lista3_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista2_6/src/Lista2_6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista3_1/src/CCorrente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Lista</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

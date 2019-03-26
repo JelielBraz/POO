@@ -5,29 +5,28 @@ public class Lista1 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Exercício 1 - Classe bola");
-        
-        Bola bolinha = new Bola("vermelho",20,"titanio");
+
+        Bola bolinha = new Bola("vermelho", 20, "titanio");
         System.out.println(bolinha.mostrarCor());
         bolinha.trocarCor("verde");
         System.out.println(bolinha.mostrarCor());
-        
+
         System.out.println("---------------------------");
-        
+
         System.out.println("Exercício 2 - Classe quadrado");
-        
+
         Quadrado quadradinho = new Quadrado(5);
         System.out.println("Atualmente o tamanho do lado é de: " + quadradinho.getTamLado());
         quadradinho.mudarTamLado(4);
         System.out.println("Atualmente o tamanho do lado é de: " + quadradinho.getTamLado());
         System.out.println("A área deste quadrado é de: " + quadradinho.getArea()
         );
-        
+
         System.out.println("---------------------------");
-        
-        
-        
+
+
         System.out.println("Exercício 3 - Classe Pessoa");
-        
+
         Pessoa ze = new Pessoa("José da Silva", 53, 89, (float) 1.76);
         ze.Envelhecer();
         ze.crescer(0.2);
@@ -40,9 +39,9 @@ public class Lista1 {
 
         System.out.println("---------------------------");
 
-        
+
         System.out.println("Exercício 4 - Classe TV");
-        TV televisao = new TV(5,25);
+        TV televisao = new TV(5, 25);
         System.out.println("O volume atual é de: " + televisao.getVolume());
         televisao.aumentarVolume();
         televisao.aumentarVolume();
@@ -51,10 +50,10 @@ public class Lista1 {
         System.out.println("O canal atual é: " + televisao.getCanal());
         televisao.mudarCanal(13);
         System.out.println("O canal atual é: " + televisao.getCanal());
-        
-                
+
+
         System.out.println("---------------------------");
-        
+
         System.out.println("Exercício 5 - Bichinho Virtual");
 
         Bichinho_virtual tamagushi = new Bichinho_virtual("Jão", 95, 10, 0);
@@ -87,6 +86,6 @@ public class Lista1 {
         posto_java.adiconarQuantidadeCombustivel(5);
         System.out.println(posto_java.abastecerLitro(100000));
         System.out.println("---------------------------");
-        
-    }   
+
+    }
 }
